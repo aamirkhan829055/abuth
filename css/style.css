@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px ;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.section-1{
+    padding: 100px 0px ;
+}
+
+.aamir::selection{
+    color: #ffff;
+    background-color:#000000;
+
+}
+
+.danish{
+    background-color: #000000;
+    padding: 30px ;
+    bottom: 0px;
+    display: inline-block;
+
+  
+}
